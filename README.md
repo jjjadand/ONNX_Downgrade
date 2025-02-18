@@ -5,7 +5,7 @@ This script allows you to **downgrade the ONNX model version** to **IR version 8
 
 ## Requirements
 - Python 3.x
-- **onnx** library
+- **onnx**
 
 ### Installation:
 To install the `onnx` library, use the following command:
