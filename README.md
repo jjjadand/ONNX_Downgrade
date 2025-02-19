@@ -45,6 +45,6 @@ This will load `model_v12.onnx`, downgrade it to IR version 8, set opset version
 ```bash
 python downgrade_onnx.py model_v12.onnx model_v9.onnx --target_ir_version 9 --target_opset_version 11
 ```
-This will load `model_v12.onnx`, downgrade it to IR version 9, set opset version 11, validate, and save the new model as model_v9.onnx.
+This will load `model_v12.onnx`, downgrade it to IR version 9, set opset version 11, validate, and save the new model as `model_v9.onnx`.
 
 
